@@ -1,0 +1,4 @@
+project_id = "kgxmsjolyvoeqdiizcjp"
+
+[functions.analyze-reflection]
+verify_jwt = false
